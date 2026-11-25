@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: EbonUpdater
+## Notes: Lightweight Ebonhold addon update notifications
+## Version: 0.1.1
+## X-GitHub: Aeskyndr/EbonUpdater
+## SavedVariables: EbonUpdaterDB
+
+Versions.lua
+Core.lua
